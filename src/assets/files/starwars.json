@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id":"1001",
+            "name":"Luke",
+            "frase":"Quién es mi padre?",
+            "image":"avatar-luke.png"
+        },
+        {
+            "id":"1002",
+            "name":"Yoda",
+            "frase":"Quién es mi padre?",
+            "image":"avatar-yoda.png"
+        },
+        {
+            "id":"1003",
+            "name":"ben",
+            "frase":"Quién es mi padre?",
+            "image":"avatar-ben.png"
+        },
+        {
+            "id":"1004",
+            "name":"finn",
+            "frase":"Quién es mi padre?",
+            "image":"avatar-finn.png"
+        },
+        {
+            "id":"1005",
+            "name":"han",
+            "frase":"Quién es mi padre?",
+            "image":"avatar-han.png"
+        },
+        {
+            "id":"1006",
+            "name":"Rey",
+            "frase":"Quién es mi padre?",
+            "image":"avatar-rey.png"
+        },
+        {
+            "id":"1007",
+            "name":"Leia",
+            "frase":"Quién es mi padre?",
+            "image":"avatar-leia.png"
+        },
+        {
+            "id":"1008",
+            "name":"Poe",
+            "frase":"Quién es mi padre?",
+            "image":"avatar-poe.png"
+        }
+    ]
+}
